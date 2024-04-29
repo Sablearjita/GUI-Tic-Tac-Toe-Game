@@ -16,7 +16,7 @@ This is a simple Tic Tac Toe game implemented in Python with a graphical user in
 ## How to Play
 
 1. Clone the repository to your local machine:
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/sablearjita/tic-tac-toe.git
 
 
 2. Navigate to the project directory:
